@@ -1,0 +1,28 @@
+# robots.txt for dev.alie.info
+# Updated: 2025-10-14
+
+User-agent: *
+Allow: /
+Disallow: /admin/
+Disallow: /.git/
+Disallow: /node_modules/
+Disallow: /*.md$
+
+# Crawl-delay for better server performance
+Crawl-delay: 1
+
+# Sitemap location
+Sitemap: https://dev.alie.info/sitemap.xml
+
+# Allow all search engines
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: Slurp
+Allow: /
+
+
+

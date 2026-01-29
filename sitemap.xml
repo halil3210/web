@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  
+  <!-- Homepage -->
+  <url>
+    <loc>https://dev.alie.info/</loc>
+    <lastmod>2025-10-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="de" href="https://dev.alie.info/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://dev.alie.info/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://dev.alie.info/"/>
+    <image:image>
+      <image:loc>https://dev.alie.info/iconx.jpeg</image:loc>
+      <image:title>Halil Yücedag Portfolio</image:title>
+    </image:image>
+  </url>
+  
+  <!-- ALIE App Showcase - German -->
+  <url>
+    <loc>https://dev.alie.info/alie-app-showcase.html</loc>
+    <lastmod>2025-10-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="de" href="https://dev.alie.info/alie-app-showcase.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://dev.alie.info/alie-app-showcase-en.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://dev.alie.info/alie-app-showcase-tr.html"/>
+  </url>
+  
+  <!-- ALIE App Showcase - English -->
+  <url>
+    <loc>https://dev.alie.info/alie-app-showcase-en.html</loc>
+    <lastmod>2025-10-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  
+  <!-- ALIE App Showcase - Turkish -->
+  <url>
+    <loc>https://dev.alie.info/alie-app-showcase-tr.html</loc>
+    <lastmod>2025-10-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  
+  <!-- Digitale Maske - German -->
+  <url>
+    <loc>https://dev.alie.info/digitale-maske.html</loc>
+    <lastmod>2025-10-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  <!-- Digitale Maske - English -->
+  <url>
+    <loc>https://dev.alie.info/digitale-maske-en.html</loc>
+    <lastmod>2025-10-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  <!-- Digitale Maske - Turkish -->
+  <url>
+    <loc>https://dev.alie.info/digitale-maske-tr.html</loc>
+    <lastmod>2025-10-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  <!-- Fort Nox - German -->
+  <url>
+    <loc>https://dev.alie.info/fort-nox.html</loc>
+    <lastmod>2025-10-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  <!-- Fort Nox - English -->
+  <url>
+    <loc>https://dev.alie.info/fort-nox-en.html</loc>
+    <lastmod>2025-10-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  <!-- Fort Nox - Turkish -->
+  <url>
+    <loc>https://dev.alie.info/fort-nox-tr.html</loc>
+    <lastmod>2025-10-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  <!-- E-Book Creator - German -->
+  <url>
+    <loc>https://dev.alie.info/ebook-creator.html</loc>
+    <lastmod>2025-10-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  <!-- E-Book Creator - English -->
+  <url>
+    <loc>https://dev.alie.info/ebook-creator-en.html</loc>
+    <lastmod>2025-10-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  <!-- Ollama Local AI - German -->
+  <url>
+    <loc>https://dev.alie.info/ollama-local-ai.html</loc>
+    <lastmod>2025-10-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  <!-- Ollama Local AI - English -->
+  <url>
+    <loc>https://dev.alie.info/ollama-local-ai-en.html</loc>
+    <lastmod>2025-10-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  <!-- MCP Flow - German -->
+  <url>
+    <loc>https://dev.alie.info/mcp-flow.html</loc>
+    <lastmod>2025-10-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  <!-- MCP Flow - English -->
+  <url>
+    <loc>https://dev.alie.info/mcp-flow-en.html</loc>
+    <lastmod>2025-10-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- KLCP Quiz App - German -->
+  <url>
+    <loc>https://dev.alie.info/klcp-app-showcase.html</loc>
+    <lastmod>2025-12-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="de" href="https://dev.alie.info/klcp-app-showcase.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://dev.alie.info/klcp-app-showcase-en.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://dev.alie.info/klcp-app-showcase-tr.html"/>
+  </url>
+
+  <!-- KLCP Quiz App - English -->
+  <url>
+    <loc>https://dev.alie.info/klcp-app-showcase-en.html</loc>
+    <lastmod>2025-12-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="de" href="https://dev.alie.info/klcp-app-showcase.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://dev.alie.info/klcp-app-showcase-en.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://dev.alie.info/klcp-app-showcase-tr.html"/>
+  </url>
+
+  <!-- KLCP Quiz App - Turkish -->
+  <url>
+    <loc>https://dev.alie.info/klcp-app-showcase-tr.html</loc>
+    <lastmod>2025-12-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="de" href="https://dev.alie.info/klcp-app-showcase.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://dev.alie.info/klcp-app-showcase-en.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://dev.alie.info/klcp-app-showcase-tr.html"/>
+  </url>
+
+</urlset>
+
